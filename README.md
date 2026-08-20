@@ -2,7 +2,7 @@
 
 # 👩‍💻 Hey, I'm Manisha Baloda!
 
-### B.Tech CSE (AI/ML) | 1st Year @ LPU | Frontend & AI Enthusiast
+### B.Tech CSE (AI/ML) | AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-baloda-11a254393)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishabaloda4-cloud)

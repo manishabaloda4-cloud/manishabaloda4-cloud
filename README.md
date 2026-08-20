@@ -75,10 +75,7 @@
 ---
 
 ## 🏆 Achievements
-
-- 🎓 **9.67 CGPA** — Top academic performance, LPU
 - 💻 **LPU Hackathon Participant** — Built real-world solutions under pressure
-- 📚 **91%** in Class 12 | **93.33%** in Class 10
 
 ---
 

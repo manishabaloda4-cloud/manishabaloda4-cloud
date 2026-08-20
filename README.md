@@ -14,10 +14,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **1st Year B.Tech CSE (AI/ML)** student at **Lovely Professional University**, Punjab
+- 🎓 **B.Tech CSE (AI/ML) Student**
 - 💡 Passionate about **Frontend Development** and **AI/ML**
 - 🤖 Building projects at the intersection of **Python, AI & the Web**
-- 📊 **9.67 CGPA** — always aiming higher
 - 🌱 Currently learning: **React.js** and **Machine Learning**
 - ⚡ Fun fact: I built a face-recognition attendance system in my 1st year!
 

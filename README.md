@@ -15,9 +15,9 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (AI/ML) Student**
-- 💡 Passionate about **Frontend Development** and **AI/ML**
+- 💡 Passionate about **AI/ML**
 - 🤖 Building projects at the intersection of **Python, AI & the Web**
-- 🌱 Currently learning: **React.js** and **Machine Learning**
+- 🌱 Currently learning: **Machine Learning**
 - ⚡ Fun fact: I built a face-recognition attendance system in my 1st year!
 
 ---

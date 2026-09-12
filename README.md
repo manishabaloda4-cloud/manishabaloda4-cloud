@@ -18,7 +18,6 @@
 - 💡 Passionate about **AI/ML**
 - 🤖 Building projects at the intersection of **Python, AI & the Web**
 - 🌱 Currently learning: **Machine Learning**
-- ⚡ Fun fact: I built a face-recognition attendance system in my 1st year!
 
 ---
 
@@ -40,42 +39,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🎯 Smart Attendance System
-> Automated face-recognition attendance system that eliminates proxy attendance and manual errors.
-- **Tech:** Python, OpenCV, Face Recognition, MySQL
-- ✅ Reduced manual errors | Real-time tracking | Database integration
-
-### 📡 RFID Tracking System
-> Contactless real-time data capture system using RFID tags and reader.
-- **Tech:** Python, RFID Module, Database
-- ✅ Improved accuracy over manual systems | Real-time records
-
-### 🎮 First Game
-> A fun JavaScript-based browser game — my first dive into interactive web development!
-- **Tech:** JavaScript, HTML, CSS
-
-### 🎬 Text to Video Generator
-> Convert text thoughts into video content using AI.
-- **Tech:** TypeScript, AI APIs
-
----
-
-## 📜 Certificates
-
-- 🏅 **Python** — Kaggle
-- 🤖 **Generative AI with JavaScript** — Microsoft
-- 👥 **Leadership and Teams**
-- ⚡ **be10X Certification**
-
----
-
-## 🏆 Achievements
-- 💻 **LPU Hackathon Participant** — Built real-world solutions under pressure
 
 ---
 

@@ -16,7 +16,7 @@
 
 - 🎓 **B.Tech CSE (AI/ML) Student**
 - 💡 Passionate about **AI/ML**
-- 🤖 Building projects at the intersection of **Python, AI & the Web**
+- 🤖 Building projects
 - 🌱 Currently learning: **Machine Learning**
 
 ---
